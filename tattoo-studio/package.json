@@ -1,0 +1,13 @@
+{
+  "name": "tattoo-studio",
+  "version": "1.0.0",
+  "description": "Art's Ink Jönköping Tattoo Studio Website",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'No build required for static site'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {}
+}
